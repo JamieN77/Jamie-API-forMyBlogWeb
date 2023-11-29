@@ -1,1 +1,1 @@
-# I'm developing a API for my blog web
+# I'm developing an API for my blog web
